@@ -1,0 +1,19 @@
+:root{
+    --header-color:#FFFFFF;
+    --button-color:#2196F3;
+    --firstsection-color:#2F303A;
+     --article-color:#FFFFFF;
+    --section-color:#FFF;
+    --title-color:#212121;
+    --text-color:#757575;
+    --footer-color:#2F303A;
+}
+p{
+   font-size: 24px;
+}
+a[href="https://validator.w3.org/"] {
+    color: red;
+}
+a[href="https://www.youtube.com/"] {
+    color: red;
+}
